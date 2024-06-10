@@ -1,0 +1,28 @@
+h1 {
+    color: #1FA9A1;
+}
+h1 strong {
+    color: #EA9CA2;
+}
+section{
+    background-image: url(sky-5534319_1280.jpg);
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li {
+    flex: 1 1 17%;
+    padding: 0px;
+}
+
+select{
+    border: none;
+    color: #63CBEE;
+}
+
